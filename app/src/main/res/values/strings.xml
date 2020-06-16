@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BioPay</string>
+    <string name="title_activity_google_sign_up">GoogleSignUp</string>
+    <string name="add">ADD</string>
+</resources>
